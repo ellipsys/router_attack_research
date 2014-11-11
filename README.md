@@ -7,7 +7,8 @@ Information on threat actors mass-targeting routers on the Internet, including I
 
 ###### Description
 
-This repository contains information on attackers mass targeting vulnerable Linksys WRT120N routers exposed to the Internet 
+This repository contains information on attackers mass targeting vulnerable Linksys WRT120N routers exposed to the Internet. The following is a blog post with further analysis:
+
 
 ###### Geo Cluster Map
 
@@ -17,8 +18,11 @@ oallowfullscreen msallowfullscreen></iframe>
 ###### Contact Information
 
 Email: 		andrew@morris.guru
+
 Twitter:	@Andrew___Morris
+
 Blog:		morris.guru
+
 PGP Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
