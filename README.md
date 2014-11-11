@@ -1,4 +1,76 @@
-router_attack_research
+# Router Attack Research
 ======================
 
+###### Summary
+
 Information on threat actors mass-targeting routers on the Internet, including IP addresses and geo information
+
+###### Description
+
+This repository contains information on attackers mass targeting vulnerable Linksys WRT120N routers exposed to the Internet 
+
+###### Geo Cluster Map
+
+<iframe width='100%' height='520' frameborder='0' src='http://amorris.cartodb.com/viz/ac973c3c-6962-11e4-a58f-0e018d66dc29/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen 
+oallowfullscreen msallowfullscreen></iframe>
+
+###### Contact Information
+
+Email: 		andrew@morris.guru
+Twitter:	@Andrew___Morris
+Blog:		morris.guru
+PGP Key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG
+
+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
+=Dihn
+-----END PGP PUBLIC KEY BLOCK-----
+```
