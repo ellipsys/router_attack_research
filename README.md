@@ -1,19 +1,14 @@
 # Router Attack Research
 ======================
 
-###### Summary
+##### Summary
 
 Information on threat actors mass-targeting routers on the Internet, including IP addresses and geo information
 
-###### Description
+##### Description
 
-This repository contains information on attackers mass targeting vulnerable Linksys WRT120N routers exposed to the Internet. The following is a blog post with further analysis:
-
-
-###### Geo Cluster Map
-
-<iframe width='100%' height='520' frameborder='0' src='http://amorris.cartodb.com/viz/ac973c3c-6962-11e4-a58f-0e018d66dc29/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen 
-oallowfullscreen msallowfullscreen></iframe>
+This repository contains information on attackers mass targeting vulnerable Linksys WRT120N routers exposed to the Internet. The following is a blog post with further analysis: 
+http://morris.guru/tracking-routers-exploit-attempts-in-the-wild-linksys-wrt120n/
 
 ###### Contact Information
 
